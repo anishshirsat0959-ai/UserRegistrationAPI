@@ -21,4 +21,4 @@ ASP.NET Core Web API project for user registration using Entity Framework Core a
    dotnet restore
    dotnet run
 4. Open Swagger at:
-   http://localhost:5007/swagger
+   http://localhost:5007/swagger/index.html
